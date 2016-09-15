@@ -18,3 +18,5 @@ def print_art():
 
 
                     """)
+def hi_fellow("I am an Insight Fellow!"):
+    return "That's awesome! How is that random forest model going?"
